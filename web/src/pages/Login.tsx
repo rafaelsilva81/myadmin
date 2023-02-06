@@ -19,7 +19,7 @@ const Login = () => {
         <img src={logo} alt="logo" width={"200px"} className="" />
 
         <div>
-          <h1 className="text-4xl font-bold leading-tight">MyAdmin</h1>
+          <h1 className="text-4xl font-bold leading-tight">Bem vindo!</h1>
           <p className="text-xl font-semibold leading-tight">
             Lorem Ipsum is simply dummy text of the printing and typesetting
           </p>
