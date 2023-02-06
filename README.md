@@ -38,3 +38,11 @@ MyAdmin é um projeto que fiz para um teste técnico. Estou refatorando o códig
 > OBS: O usuário padrão é `admin` e a senha é `admin`
 
 # Screenshots
+
+![login](https://github.com/rafaelsilva81/myadmin/blob/main/resources/login.png?raw=true)
+![dashboard](https://github.com/rafaelsilva81/myadmin/blob/main/resources/t1.png?raw=true)
+
+<img src="https://github.com/rafaelsilva81/myadmin/blob/main/resources/mobile4.png?raw=true" width="24%"/>
+<img src="https://github.com/rafaelsilva81/myadmin/blob/main/resources/mobile.png?raw=true" width="24%"/>
+<img src="https://github.com/rafaelsilva81/myadmin/blob/main/resources/mobile2.png?raw=true" width="24%"/>
+<img src="https://github.com/rafaelsilva81/myadmin/blob/main/resources/mobile3.png?raw=true" width="24%"/>
