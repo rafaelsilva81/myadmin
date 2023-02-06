@@ -42,7 +42,9 @@ MyAdmin é um projeto que fiz para um teste técnico. Estou refatorando o códig
 ![login](https://github.com/rafaelsilva81/myadmin/blob/main/resources/login.png?raw=true)
 ![dashboard](https://github.com/rafaelsilva81/myadmin/blob/main/resources/t1.png?raw=true)
 
+<div>
 <img src="https://github.com/rafaelsilva81/myadmin/blob/main/resources/mobile4.png?raw=true" width="24%"/>
 <img src="https://github.com/rafaelsilva81/myadmin/blob/main/resources/mobile.png?raw=true" width="24%"/>
 <img src="https://github.com/rafaelsilva81/myadmin/blob/main/resources/mobile2.png?raw=true" width="24%"/>
 <img src="https://github.com/rafaelsilva81/myadmin/blob/main/resources/mobile3.png?raw=true" width="24%"/>
+</div>
